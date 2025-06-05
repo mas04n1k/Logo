@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(14,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(15,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(16,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(17,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project3.vcxproj -> C:\Users\Den4k\source\repos\Project3\x64\Debug\Project3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

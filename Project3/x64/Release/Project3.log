@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(42,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(42,45): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(42,33): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+C:\Users\Den4k\source\repos\Project3\Project3\main.cpp(48,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  123 of 573 functions (21.5%) were compiled, the rest were copied from previous compilation.
+    51 functions were new in current compilation
+    105 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project3.vcxproj -> C:\Users\Den4k\source\repos\Project3\x64\Release\Project3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
