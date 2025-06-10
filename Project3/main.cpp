@@ -105,6 +105,6 @@ int main() {
     while (!win.is_closed()) {
         win.wait();
     }
-    canvas.save("С++.jpg");
+    canvas.save("С++.bmp");
     return 0;
 }
